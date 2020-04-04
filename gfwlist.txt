@@ -1,0 +1,9 @@
+!format:AutoProxy
+||google.com
+||githubusercontent.com
+||readthedocs.org
+||githubusercontent.com
+||jetbrains.com
+||disquscdn.com
+||github.com
+||docker.com
