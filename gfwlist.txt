@@ -6,3 +6,4 @@
 ||disquscdn.com
 ||github.com
 ||docker.com
+||codesandbox.io
