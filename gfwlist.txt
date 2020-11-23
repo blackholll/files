@@ -9,3 +9,4 @@
 ||codesandbox.io
 ||gstatic.com
 ||youtube.com
+||antv.vision
