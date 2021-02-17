@@ -6,7 +6,6 @@
 ||disquscdn.com
 ||github.com
 ||docker.com
-||codesandbox.io
 ||gstatic.com
 ||youtube.com
 ||antv.vision
